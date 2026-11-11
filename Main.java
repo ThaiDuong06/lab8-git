@@ -1,5 +1,5 @@
 public class Main {
-    private static final int BONUS = 10;
+    private static final int BONUS = 30;
 
     public static void main(String[] args) {
         System.out.println("Software Engineering - Git");
