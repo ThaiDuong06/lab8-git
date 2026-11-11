@@ -8,6 +8,6 @@ public class Main {
 
     private static void printSummary() {
         System.out.println("Bonus = " + BONUS);
-        System.out.println("Version: initial");
+        System.out.println("Version: collaborative");
     }
 }
